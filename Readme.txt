@@ -1,0 +1,1 @@
+to show pictures: php artisan storage:link
